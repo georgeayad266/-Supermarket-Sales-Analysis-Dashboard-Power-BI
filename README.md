@@ -13,8 +13,7 @@ Evaluate product line performance
 Identify peak sales hours and trends
 Compare branch performance using customer ratings
 
-# Key Insights
-💰 Financial Performance
+# Financial Performance
 Total Sales: 322.97K
 COGS: 307.59K
 Profit: 15.38K
